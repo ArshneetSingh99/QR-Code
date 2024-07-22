@@ -1,0 +1,39 @@
+
+
+.desktop{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:hsl(212, 45%, 89%);
+    margin-top: 5%;
+    /* margin-bottom: 5%; */
+    padding-top: 2%;
+    padding-bottom: 3.4%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.qr{
+    background-color: white;
+    max-width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    height: 385px;
+    border-radius: 3%;
+    font-family: Outfit;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+}
+
+#qr_image {
+    width: 88%;
+    height: 58%;
+    margin-top: 5%;
+    border-radius: 3%;
+}
+
+p {
+  font-family: Outfit-Thin;  
+}
